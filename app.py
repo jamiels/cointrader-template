@@ -7,7 +7,7 @@ import pandas as pd
 
 app = Flask(__name__)
 ct = CoinTrader()
-ct.trade(5,'eth')
+#ct.trade(5,'eth')
 
 
 # $env:FLASK_DEBUG=1
